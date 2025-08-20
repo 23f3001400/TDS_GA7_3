@@ -6,7 +6,7 @@ app = marimo.App(width="medium")
 
 @app.cell
 def __():
-    # Author: 22f1000662@ds.study.iitm.ac.in
+    # Author: 23f3001400@ds.study.iitm.ac.in
     # Interactive Data Analysis with Marimo
     # This notebook demonstrates reactive programming with variable dependencies
     
@@ -20,7 +20,7 @@ def __():
     mo.md("""
     # Interactive Data Analysis with Marimo
     
-    **Author:** 22f1000662@ds.study.iitm.ac.in  
+    **Author:** 23f3001400@ds.study.iitm.ac.in  
     **Date:** August 16, 2025
     
     This notebook demonstrates Marimo's reactive programming capabilities with:
@@ -417,3 +417,4 @@ def __(mo):
 
 if __name__ == "__main__":
     app.run()
+
